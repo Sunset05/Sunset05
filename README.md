@@ -6,16 +6,16 @@ I possess a strong student mentality and am constantly seeking out new problems 
 ## Projects
 LevelUp Trading Post [Demo](https://youtu.be/zo203HeqSaw) | [Frontend Repo](https://github.com/Sunset05/level-up-frontend/edit/main/README.md) | [Backend Repo](https://github.com/Sunset05/level_up_backend)
 
-## Currently learning
+## Currently learning 🌱
   - Node.JS
   - MongoDB
   - Typescript
   - AWS
 
-## Looking for Help With
+## Looking for Help With 🤔
   - Improving skills in fullstack development
  
-## How to Reach Me:
+## How to Reach Me 📫
   - [Linkedin](https://www.linkedin.com/in/keith-funk/)
   - [Gmail](Keith.C.Funk@gmail.com)
 <!--  
