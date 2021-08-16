@@ -3,6 +3,8 @@
 ## Projects
 LevelUp [Demo](https://youtu.be/zo203HeqSaw) | [Frontend](https://github.com/Sunset05/level-up-frontend/edit/main/README.md) | [Backend](https://github.com/Sunset05/level_up_backend)
 
+LevelUp is an electronics trading post that allows users to create listings of used tech they would like to trade or sell. It also allows users to message each other if they are interested in a listing.
+
 
 
 
