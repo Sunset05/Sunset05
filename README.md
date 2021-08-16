@@ -1,14 +1,24 @@
-### 👋 Hello! I'm Keith 👋
+### 👋 Hello! I'm Keith! 👋
+Experienced Full Stack Software Engineer with knowledge of JavaScript, Ruby, and Typescript. I have a background in Sales and Account Management that helped me to develop strong communication, interpersonal, and team building skills.
+
+I possess a strong student mentality and am constantly seeking out new problems to solve! 
 
 ## Projects
-LevelUp [Demo](https://youtu.be/zo203HeqSaw) | [Frontend](https://github.com/Sunset05/level-up-frontend/edit/main/README.md) | [Backend](https://github.com/Sunset05/level_up_backend)
+LevelUp Trading Post [Demo](https://youtu.be/zo203HeqSaw) | [Frontend Repo](https://github.com/Sunset05/level-up-frontend/edit/main/README.md) | [Backend Repo](https://github.com/Sunset05/level_up_backend)
 
-LevelUp is an electronics trading post that allows users to create listings of used tech they would like to trade or sell. It also allows users to message each other if they are interested in a listing.
+## Currently learning
+  - Node.JS
+  - MongoDB
+  - Typescript
+  - AWS
 
-
-
-
-<!--
+## Looking for Help With
+  - Improving skills in fullstack development
+ 
+## How to Reach Me:
+  - (Linkedin)[https://www.linkedin.com/in/keith-funk/]
+  - (Gmail)[Keith.C.Funk@gmail.com]
+<!--  
 **Sunset05/Sunset05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
