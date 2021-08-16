@@ -17,7 +17,7 @@ LevelUp Trading Post [Demo](https://youtu.be/zo203HeqSaw) | [Frontend Repo](http
  
 ## How to Reach Me 📫
   - [Linkedin](https://www.linkedin.com/in/keith-funk/)
-  Keith.C.Funk@gmail.com
+  - Keith.C.Funk@gmail.com
 <!--  
 **Sunset05/Sunset05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
