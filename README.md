@@ -13,7 +13,7 @@ LevelUp Trading Post [Demo](https://youtu.be/zo203HeqSaw) | [Frontend Repo](http
   - AWS
 
 ## Looking for Help With 🤔
-  - Improving skills in fullstack development
+  - creating a video stream for an app
  
 ## How to Reach Me 📫
   - [Linkedin](https://www.linkedin.com/in/keith-funk/)
