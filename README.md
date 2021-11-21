@@ -7,13 +7,13 @@ I possess a strong student mentality and am constantly seeking out new problems 
 LevelUp Trading Post [Demo](https://youtu.be/zo203HeqSaw) | [Frontend Repo](https://github.com/Sunset05/level-up-frontend/edit/main/README.md) | [Backend Repo](https://github.com/Sunset05/level_up_backend)
 
 ## Currently learning 🌱
-  - Node.JS
-  - MongoDB
+  - React
+  - NestJS
   - Typescript
-  - AWS
+  - Java
 
 ## Looking for Help With 🤔
-  - creating a video stream for an app
+  - Low Latency Audio Streaming
  
 ## How to Reach Me 📫
   - [Linkedin](https://www.linkedin.com/in/keith-funk/)
